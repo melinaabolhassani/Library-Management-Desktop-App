@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Executable
+*.exe
+
+# Database backup
+*.bak
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Environment
+.env
